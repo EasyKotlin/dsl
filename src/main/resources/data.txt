@@ -1,0 +1,4 @@
+Kotlin
+Statically typed programming language
+for modern multiplatform applications
+100% interoperable with Java™ and Android™
